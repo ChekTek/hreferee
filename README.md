@@ -1,2 +1,3 @@
 # hreferee
-Quick template for social links
+
+Quick template for your link site. Just add your links to the href attributes!
